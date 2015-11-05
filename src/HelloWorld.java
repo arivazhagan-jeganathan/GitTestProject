@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Updated file after hello world");
 		
-		System.out.println("made unnecessary changes");
+		//added comments for removing unnecssary changes
 	}
 
 }
